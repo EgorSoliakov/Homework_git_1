@@ -1,2 +1,2 @@
-Hello people!
+Удаленный репозиторий!
 Hello world!
